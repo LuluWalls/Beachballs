@@ -34,3 +34,5 @@ module Test_Lulu
 end
 
 ```
+
+![Alt text](readme_images/test.gif?raw=true "Demo")
