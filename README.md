@@ -18,12 +18,10 @@ module Test_Lulu
      make_block()
    end
    
-   # Throw an exception
-    # x = 10/0
- 
+   Sketchup.active_model.commit_operation
+   
    # always ensure you didn't drop the ball
    ensure
-   Sketchup.active_model.commit_operation
    Lulu::Beachballs.stop()
  end # spin  
 
