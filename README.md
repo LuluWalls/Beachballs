@@ -1,5 +1,5 @@
 # Beachballs
-A spinning cursor for Sketchup on windows to indicate that ruby is busy thinking
+A spinning cursor for Sketchup on windows to indicate that ruby is busy thinking. This is a demo of functionality that I would like to see Sketchup adopt. Please do not install this extension in a production environment. It uses verboten methods to control the cursor animation.
 
 tested SU 8, 2015, and 2017 in Windows 7
 
